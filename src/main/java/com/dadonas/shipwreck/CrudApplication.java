@@ -1,4 +1,4 @@
-package com.dadonas.crud;
+package com.dadonas.shipwreck;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
