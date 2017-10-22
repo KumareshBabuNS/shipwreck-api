@@ -1,4 +1,4 @@
-package com.dadonas.crud;
+package com.dadonas.shipwreck;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
